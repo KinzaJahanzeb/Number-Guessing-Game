@@ -28,6 +28,7 @@ button{
     background-color:#5B6E74;
 }
 input::placeholder{
-  color: black;
+  color: white;
   opacity: 1;  
+
 }
